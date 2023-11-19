@@ -1,2 +1,6 @@
 https://github.com/mrugankray/Spark_Streaming_with_kafka
 
+https://www.confluent.io/blog/data-governance-with-schema-validation/
+
+https://www.confluent.io/blog/data-contracts-confluent-schema-registry/
+
