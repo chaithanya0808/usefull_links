@@ -6,3 +6,5 @@ https://www.confluent.io/blog/data-contracts-confluent-schema-registry/
 
 https://github.com/AbsaOSS/ABRiS/issues/219
 
+https://github.com/absaoss/abris/blob/master/documentation/python-documentation.md
+
