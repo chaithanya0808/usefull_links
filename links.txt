@@ -4,3 +4,5 @@ https://www.confluent.io/blog/data-governance-with-schema-validation/
 
 https://www.confluent.io/blog/data-contracts-confluent-schema-registry/
 
+https://github.com/AbsaOSS/ABRiS/issues/219
+
